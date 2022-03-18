@@ -1,0 +1,13 @@
+Eu como adimistrador do sistema gostaria de:
+
+1 - enviar lembrete de vencimento de pagamento e enviar lembrete de mandar fotos e feedback
+2 - ter cadastro dos alunos 
+3 - bloquear aluno manualmente 
+4 - mensagem semanal de lembrete para enviar peso 
+5 - eviar arquivos de treino, calculo de volume,  e dieta 
+obs no envio dos treinos!
+6 - ver evolução das fotos
+7 - grafico de peso
+8 - responder feedback
+9 - lembrete de mandar peso todo domingo
+10 - (futuramente) fazer pagamento pelo site e validar pagamento pelo site, bloqueando o aluno

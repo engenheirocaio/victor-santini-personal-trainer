@@ -1,0 +1,12 @@
+Eu como cliente gostaria de: 
+
+1 - fazer cadastro
+2 - ter acesso aos treinos, dietas e calculo de volume
+3 - tirar foto direto pelo celular, e enviar
+3 - acompanhamento de fotos (carrossel lado a lado)
+4 - graficos com evolução de peso
+5 - enviar feedback mensal 
+6 - visualizar plano ativo
+7 - enviar mensagem em dois casos:
+para duvidas de treino 
+de bloqueando
